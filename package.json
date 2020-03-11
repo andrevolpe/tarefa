@@ -1,0 +1,16 @@
+{
+  "name": "tarefa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/andrevolpe/tarefa.git",
+  "author": "andrevolpe <andrevolpe@hotmail.com.br>",
+  "license": "MIT",
+    "scripts": {
+      "start": "node index.js",
+      "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
